@@ -16,5 +16,5 @@ I do not know how one gets a theme in Bracket's app store of whatever, but I kno
 
 * `File > Extension Manager...`, or click the Lego brick icon in the right toolbar
 * Click "Install from URL..." at the bottom of the modal
-* Copy `https://github.com/NetOperatorWibby/DraculaBrackets` in the input field and click "Install"
+* Copy `https://github.com/NetOperatorWibby/DraculaBrackets`, paste to the input field and click "Install"
 * Voila! You will find Dracula in `View > Themes...`
