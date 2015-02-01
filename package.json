@@ -1,27 +1,27 @@
 {
-	"name": "dsgn.dracula-theme",
-	"title": "Dracula",
-	"description": "Improved Dracula theme",
-	"homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
-	"version": "1.0.0",
-	"author": "Paul Anthony Webb <paul@dsgn.io> (http://dsgn.io)",
-	"license": "MIT",
-	"theme": {
-		"file": "dracula.css",
-		"dark": true
-	},
-	"engines": {
-		"brackets": ">=1.0.0"
-	},
-	"keywords": [
-		"dark",
-		"theme",
-		"skin"
-	],
-	"homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
-	"bugs": "https://github.com/NetOperatorWibby/DraculaBrackets/issues",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/NetOperatorWibby/DraculaBrackets.git"
-	}
+  "name": "dsgn.dracula-theme",
+  "title": "Dracula",
+  "description": "Improved Dracula theme",
+  "homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
+  "version": "1.0.0",
+  "author": "Paul Anthony Webb <paul@dsgn.io> (http://dsgn.io)",
+  "license": "MIT",
+  "theme": {
+    "file": "dracula.css",
+    "dark": true
+  },
+  "engines": {
+    "brackets": ">=1.0.0"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "skin"
+  ],
+  "homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
+  "bugs": "https://github.com/NetOperatorWibby/DraculaBrackets/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NetOperatorWibby/DraculaBrackets.git"
+  }
 }
