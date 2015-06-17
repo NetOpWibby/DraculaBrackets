@@ -1,3 +1,120 @@
+/*
+You need to install "Brackets UI Theming Enable"
+**  https://github.com/notasz/brackets-uitheming
+*/
+
+/* Brackets */
+
+#project-files-header {
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  padding: 8px 0 9px 15px;
+  text-transform: uppercase;
+}
+
+.dropdown-arrow {
+  display: none;
+}
+
+.bft-toggle-type {
+  display: none !important;
+}
+
+#project-files-container .jstree-leaf:before,
+#project-files-container .jstree-leaf:after,
+#project-files-container .jstree-open:before,
+#project-files-container .jstree-open:after,
+#project-files-container .jstree-closed:before,
+#project-files-container .jstree-closed:after {
+  display: none !important;
+}
+
+#project-files-container .jstree-leaf:after,
+#project-files-container .jstree-open > a:after,
+#project-files-container .jstree-closed > a:after {
+  background-color: transparent;
+}
+
+#project-files-container .jstree-leaf,
+#project-files-container .jstree-open,
+#project-files-container .jstree-closed {
+  margin-left: 10px;
+}
+
+.jstree-brackets li.jstree-open > a,
+.jstree-brackets li.jstree-closed > a {
+  font-weight: 700;
+}
+
+.jstree-brackets li .extension {
+  /* opacity: 0.9; */
+}
+
+#project-files-container ul {
+  padding: 0;
+}
+
+#project-files-container .jstree-open > ul:before {
+  background-color: transparent;
+}
+
+#project-files-container .jstree-closed:after {
+  display: none;
+}
+
+.sidebar {
+  font-family: Inconsolata, "Courier New", Courier;
+}
+
+.panel {
+  /* text-shadow: none !important; */
+}
+
+#editor-holder .CodeMirror-foldgutter-open:after {
+  content: "\2335";
+  font-size: 1.3em;
+  color: #767676;
+}
+
+#editor-holder .CodeMirror-foldgutter-folded:after {
+  content: "+";
+  font-size: 0.9rem;
+  font-weight: 700;
+  background-color: transparent;
+  color: #bef8a8;
+  text-shadow: 0 0 10px #bef8a8; /* glow */
+}
+
+.CodeMirror-foldmarker {
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.CodeMirror-foldmarker:after {
+  content: "...";
+  font-size: 0.7rem;
+  line-height: 0.7rem;
+  vertical-align: top;
+}
+
+
+
+/* Plugins */
+
+.ico-cssColorPreview {
+  border-radius: 50%;
+  /* margin-left: 0.3rem; */
+}
+
+.avril-tabs-work {
+  background-color: #333639;
+}
+
+
+
+/* Theme */
+
 #status-indicators,
 #status-indicators div:not(#status-inspection),
 #status-info,

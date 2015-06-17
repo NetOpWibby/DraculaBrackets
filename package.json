@@ -1,9 +1,9 @@
 {
   "name": "dsgn.dracula-theme",
   "title": "Dracula",
-  "description": "Improved Dracula theme",
+  "description": "A theme of terrible evil, for your coding pleasure, bwahahahahahaaa-cough-haaaa. Oh yeah, you will need to install the Brackets UI Theming Enable plugin too, for the full Dracula experience.",
   "homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Paul Anthony Webb <paul@dsgn.io> (http://dsgn.io)",
   "license": "MIT",
   "theme": {

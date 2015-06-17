@@ -4,6 +4,11 @@ I like dark themes, and I am also really picky about what I have to stare at eve
 
 
 
+## Before you begin
+
+You need to install the "[Brackets UI Theming Enable](https://github.com/notasz/brackets-uitheming)" plugin to enjoy the full Dracula experience.
+
+
 ## Screenshots
 
 #### JavaScript/jQuery
