@@ -13,11 +13,11 @@ You need to install the "[Brackets UI Theming Enable](https://github.com/notasz/
 
 #### JavaScript/jQuery
 
-![js_screenshot](https://cloud.githubusercontent.com/assets/1288356/5986415/7a7da172-a8c4-11e4-8f74-9dd5d83cbee6.png)
+![js_screenshot](https://cloud.githubusercontent.com/assets/1288356/8198274/1352b39c-1472-11e5-8370-769a605d4af8.png)
 
 #### CSS/Sass
 
-![css_screenshot](https://cloud.githubusercontent.com/assets/1288356/5986519/860f193a-a8c9-11e4-8661-0b17331c3d75.png)
+![css_screenshot](https://cloud.githubusercontent.com/assets/1288356/8198280/2897d20a-1472-11e5-884f-8a28fa17a62d.png)
 
 ## Installation
 
